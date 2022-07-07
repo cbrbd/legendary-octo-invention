@@ -1,0 +1,12 @@
+*.spec
+*.mp3
+*.m4a
+__pycache__
+dist
+build
+tagAAC.py
+test.py
+download.py
+mp3dl.py
+sandbox.py
+MP3 build
